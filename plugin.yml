@@ -1,0 +1,8 @@
+---
+name: EssentialsServer
+version: 1.0.0
+api:
+- 3.0.0
+author: aimt
+description: Adding most commands [/tp, /rtp, /back, report, etc.]
+main: aimt\EssentialsServer\Main
