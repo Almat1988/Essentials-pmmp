@@ -1,2 +1,2 @@
-# Essentials-pmmp
+# EssentialsServer-pmmp
 All in one
