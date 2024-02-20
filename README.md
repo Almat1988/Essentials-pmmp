@@ -1,2 +1,2 @@
 # EssentialsServer-pmmp
-All in one
+The plugin will be coming soon, please wait!
