@@ -6,3 +6,4 @@ api:
 author: aimt
 description: Adding most commands [/tp, /rtp, /back, report, etc.]
 main: EssentialsServer\Main
+...
